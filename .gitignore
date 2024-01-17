@@ -1,0 +1,7 @@
+/vendor/
+/node_modules/
+/logs/*
+!/logs/README.md
+.env
+/.idea/
+**/.DS_Store
